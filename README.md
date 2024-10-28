@@ -1,5 +1,7 @@
 # Monitoreador de plantas
 
+![Logo](https://png.pngtree.com/png-clipart/20230419/original/pngtree-plant-in-pot-pixel-art-png-image_9066899.png)
+
 ## Authors
 
 - [@G4BY0](https://www.github.com/G4BY0)
@@ -14,8 +16,12 @@
 
 [![GPL-3.0 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/license/gpl-3-0)
 
-![Logo](https://img.freepik.com/vector-premium/vector-planta-pixeles-8-bits-planta-estilo-pixel-art-grafico-computadora-vieja-escuela-videojuego-8-bits_770836-29.jpg)
+
 
 ## Instalacion
 
-Una vez teniendo la maceta...
+Teniendo una vez el disposito se deben seguir las siguientes instrucciones:
+
+1- Introducir a tierra sensor de humedad - Hasta la linea marcada
+2- Introducir a tierra el sensor de temperatura - Hasta la linea marcada
+3- Introducir a tierra el sensor de luminicencia - Hasta la linea marcada
