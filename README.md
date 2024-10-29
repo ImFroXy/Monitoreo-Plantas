@@ -1,8 +1,14 @@
 # Monitoreador de plantas
 
+Dispositivo que monitorea en tiempo real las siguientes posibles plantas:
+-Epipremnum aureum
+-Sansevieria trifasciata
+
+
+
 ![Logo](https://png.pngtree.com/png-clipart/20230419/original/pngtree-plant-in-pot-pixel-art-png-image_9066899.png)
 
-## Authors
+## Autores
 
 - [@G4BY0](https://www.github.com/G4BY0)
 - [@ImFroXy](https://www.github.com/ImFroXy)
